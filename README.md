@@ -1,4 +1,6 @@
-**# Netflix-Data-Analysis******
+                                                                          **  **# Netflix-Data-Analysis*****
+
+
 Netflix Data Analysis Dashboard Welcome to the Netflix Data Analysis project! This project focuses on analyzing key performance indicators (KPIs) from a Kaggle dataset, providing valuable insights for customer analysis related to movie types, titles, genres, and ratings.
 Summary
 The Netflix Data Analysis Dashboard is a comprehensive visualization of Netflix's content trends over the years. Leveraging a Kaggle dataset, we have meticulously examined various KPIs to offer a deeper understanding of the platform's content landscape. From the total number of movies and TV shows added annually to the distribution of content across countries and genres, this dashboard provides essential insights for anyone interested in Netflix data.
